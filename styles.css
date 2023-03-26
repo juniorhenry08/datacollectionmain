@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    width: 450px;
+    height: 520px;
+    background-color: rgba(128, 128, 128, 0.443);
+    margin-left: 66vh;
+    border-radius: 35px;
+    margin-top: 0px;
+}
+
+h1 {
+    display: flex;
+    vertical-align: middle;
+    justify-content: center;
+    margin-bottom: 0;
+}
+
+a {
+    display: flex;
+    vertical-align: middle;
+    justify-content: center;
+    text-align: row;
+    padding-top: 3vh;
+    text-decoration: none;
+    color: #00008a;
+    font-weight: 500px;
+    font-size: 20px;
+}
+
+a:hover {
+    cursor: pointer;
+}
